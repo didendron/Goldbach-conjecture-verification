@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Goldbach conjecture verification:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Goldbach_conjecture_verification_jar</output-path>
+    <root id="archive" name="Goldbach conjecture verification.jar">
+      <element id="module-output" name="Goldbach conjecture verification" />
+    </root>
+  </artifact>
+</component>

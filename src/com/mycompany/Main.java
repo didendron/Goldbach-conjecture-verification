@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         BigInteger firstAddend=new BigInteger("0");
         BigInteger secondAddend=new BigInteger("0");
         System.out.println("Enter an even natural number(greater than 4):");
@@ -24,6 +24,7 @@ public class Main {
                 }
             }
             System.out.println(number+"="+firstAddend+"+"+secondAddend);
+            Thread.sleep(30000);
 
 
         }
