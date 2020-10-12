@@ -15,5 +15,6 @@ For example:
 4000000000000011694=383+4000000000000011311
 4000000000000022178=5+4000000000000022173
 5789438028957788126=139+5789438028957787987
+To run this program open file: Goldbach conjecture verification.exe
 ![result1](./images/screen1.png)
 ![result2](./images/screen2.png)
